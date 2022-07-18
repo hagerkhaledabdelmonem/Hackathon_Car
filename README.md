@@ -1,4 +1,5 @@
 # Hackathon_Car
+It's about RC competition, It consists of three rounds.
 ## Round 1:
 It's about Maze, your Car will enter it and it is supposed to get out of it without any control from you .
 ### Component:
